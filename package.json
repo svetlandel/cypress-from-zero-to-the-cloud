@@ -8,7 +8,7 @@
     "cy:open:mobile": "cypress open --config viewportWidth=410 viewportHeight=860",
     
     "test": "cypress run",
-    "test:cloud": "cypress run --record",
+    "test:cloud": "cypress run --record --key fd9f3116-8dfb-4d2a-ae6c-9ae450a9f754",
     "test:mobile": "cypress run --config viewportWidth=410 viewportHeight=860"
 
   },
